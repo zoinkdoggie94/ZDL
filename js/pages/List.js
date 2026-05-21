@@ -121,6 +121,33 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
+                        A ZoinkDoggie level is a level focused on extremely difficult gameplay mechanics such as:
+                    </p>
+                    <p>
+                        very tight gaps
+                    </p>
+                    <p>
+                        intense timings
+                    </p>
+                    <p>
+                        high CPS spam segments
+                    </p>
+                    <p>
+                        difficult transitions
+                    </p>
+                    <p>
+                        precision gameplay
+                    </p>
+                    <p>
+                        consistency-heavy sections
+                    </p>
+                    <p>
+                        For your level to officially count as a ZDL level, the level also has to contain text at the end that says “ZDL”.
+                    </p>
+                    <p>
+                        That ending text is basically used to identify the level as part of the ZoinkDoggie List.
+                    </p>
+                    <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                 </div>
